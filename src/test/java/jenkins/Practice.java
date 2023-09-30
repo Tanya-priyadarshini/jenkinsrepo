@@ -15,5 +15,9 @@ public class Practice {
 	public void practice2() {
 		System.out.println("practice2");
 	}
+	@Test
+	public void practice3() {
+		System.out.println("practice3");
+	}
 
 }
